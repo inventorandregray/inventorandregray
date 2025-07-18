@@ -73,17 +73,22 @@ Ranked among the **top 5 inventors of all time** and hailed as the **#1 inventor
 - Seeking **collaborators & sponsors** for educational & technical innovation
 ---
 
-  ## 📊 GitHub Overview
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inventorandregray&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
+## 📊 GitHub Overview
 
-</td>
-
-<td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=inventorandregray&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</td>
+<table>
+  <tr>
+    <td>
+      <h3>❄ Most Used Languages On GitHub</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inventorandregray&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
+      </a>
+    </td>
+    <td>
+      <h3>⭐ My GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=inventorandregray&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 
 ### 🙏 Thank You
