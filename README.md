@@ -49,25 +49,9 @@ Ranked among the **top 5 inventors of all time** and hailed as the **#1 inventor
 - Sharing **code & prototypes** in Python, JS, AI & audio formats  
 - Upcoming: **Mind‑Over‑Matter dev‑kit**, **next-gen Microgrooves audio tech**, **open STEM curriculum**
 - Seeking **collaborators & sponsors** for educational & technical innovation
-
----
-
-## ➕ Quick Facts
-| Detail              | Info                                              |
-|--------------------|---------------------------------------------------|
-| Born               | Belize 🇧🇿                                          |
-| Based in           | New York / Connecticut, USA                       |
-| Education          | Electronics, Music Technology (Juilliard), etc. |
-| Philosophy         | “Inventing for humanity, not profit” :contentReference[oaicite:19]{index=19} |
-
 ---
 
 ### 🙏 Thank You
 I appreciate you visiting my profile. Let’s build a more creative, equitable, tech-forward future—together.
 
 **– André Gray**
-
----
-
-*Profile generated and optimized for GitHub — feel free to edit and tailor further!*
-::contentReference[oaicite:20]{index=20}
