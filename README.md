@@ -73,6 +73,21 @@ Ranked among the **top 5 inventors of all time** and hailed as the **#1 inventor
 - Seeking **collaborators & sponsors** for educational & technical innovation
 ---
 
+  ### ⚙️ Most Used Languages On GitHub
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inventorandregray&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
+
+</td>
+
+<td valign="top" width="50%">
+
+  ### ⭐ My GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=inventorandregray&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+
+
 ### 🙏 Thank You
 I appreciate you visiting my profile. Let’s build a more creative, equitable, tech-forward future—together.
 
