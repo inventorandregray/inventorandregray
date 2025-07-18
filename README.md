@@ -89,7 +89,7 @@ Ranked among the **top 5 inventors of all time** and hailed as the **#1 inventor
 </table>
 
 
-### 🙏 Thank You
+## 🙏 Thank You
 I appreciate you visiting my profile. Let’s build a more creative, equitable, tech-forward future—together.
 
 **– André Gray**
